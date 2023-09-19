@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValeRcp
 - 👀 I’m interested in understanding what would make developers happier
 - 🌱 I’m currently learning about C++, C, CMake
-- 💞️ I’m looking for Beta tester, who wants to discover how caching can help your team
+- 💞️ I’m looking for Beta testers, who wants to discover how caching can help their team
 - 📫 How to reach me: valentina@tipi.build
 
 <!---
